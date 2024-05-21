@@ -1,0 +1,4 @@
+﻿  snake.cpp
+C:\Users\aleks.karczewski\source\repos\snake\snake\snake.cpp(88,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\aleks.karczewski\source\repos\snake\snake\snake.cpp(154,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  snake.vcxproj -> C:\Users\aleks.karczewski\source\repos\snake\x64\Debug\snake.exe
